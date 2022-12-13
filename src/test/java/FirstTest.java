@@ -4,6 +4,6 @@ public class FirstTest {
 
     @Test
     void firstTest(){
-        System.out.println("Привет! Это тест для конфликта!");
+        System.out.println("Привет! Это тест для конфликта2!");
     }
 }
